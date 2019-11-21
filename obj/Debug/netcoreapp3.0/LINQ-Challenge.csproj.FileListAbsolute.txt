@@ -1,0 +1,11 @@
+C:\Users\Shirish\Projects\workspace\LINQ-Challenge\obj\Debug\netcoreapp3.0\LINQ-Challenge.csprojAssemblyReference.cache
+C:\Users\Shirish\Projects\workspace\LINQ-Challenge\obj\Debug\netcoreapp3.0\LINQ-Challenge.AssemblyInfoInputs.cache
+C:\Users\Shirish\Projects\workspace\LINQ-Challenge\obj\Debug\netcoreapp3.0\LINQ-Challenge.AssemblyInfo.cs
+c:\Users\Shirish\Projects\workspace\LINQ-Challenge\bin\Debug\netcoreapp3.0\LINQ-Challenge.exe
+C:\Users\Shirish\Projects\workspace\LINQ-Challenge\bin\Debug\netcoreapp3.0\LINQ-Challenge.deps.json
+C:\Users\Shirish\Projects\workspace\LINQ-Challenge\bin\Debug\netcoreapp3.0\LINQ-Challenge.runtimeconfig.json
+C:\Users\Shirish\Projects\workspace\LINQ-Challenge\bin\Debug\netcoreapp3.0\LINQ-Challenge.runtimeconfig.dev.json
+c:\Users\Shirish\Projects\workspace\LINQ-Challenge\bin\Debug\netcoreapp3.0\LINQ-Challenge.dll
+c:\Users\Shirish\Projects\workspace\LINQ-Challenge\bin\Debug\netcoreapp3.0\LINQ-Challenge.pdb
+c:\Users\Shirish\Projects\workspace\LINQ-Challenge\obj\Debug\netcoreapp3.0\LINQ-Challenge.dll
+c:\Users\Shirish\Projects\workspace\LINQ-Challenge\obj\Debug\netcoreapp3.0\LINQ-Challenge.pdb
